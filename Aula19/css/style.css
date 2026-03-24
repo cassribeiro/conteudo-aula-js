@@ -1,0 +1,9 @@
+body{
+    background-color: cornflowerblue;
+    color: white;
+    font-family: sans-serif;
+}
+
+.ativo{
+    color: darkmagenta
+}
